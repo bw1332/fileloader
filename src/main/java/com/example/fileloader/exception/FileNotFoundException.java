@@ -1,4 +1,4 @@
-package com.example.fileloader.Exception;
+package com.example.fileloader.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
